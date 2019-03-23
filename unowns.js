@@ -1,6 +1,6 @@
 let pms = [
   {
-    "dex": 1,
+    "dex": 252,
     "name": {
       "de": "Unown A",
       "en": "Unown A",
@@ -13,7 +13,7 @@ let pms = [
     "family": "Unown"
   },
   {
-    "dex": 2,
+    "dex": 254,
     "name": {
       "de": "Unown B",
       "en": "Unown B",
@@ -26,7 +26,7 @@ let pms = [
     "family": "Unown"
   },
   {
-    "dex": 3,
+    "dex": 403,
     "name": {
       "de": "Unown C",
       "en": "Unown C",
@@ -52,7 +52,7 @@ let pms = [
     "family": "Unown"
   },
   {
-    "dex": 5,
+    "dex": 201,
     "name": {
       "de": "Unown E",
       "en": "Unown E",
@@ -61,7 +61,7 @@ let pms = [
       "kr": "리자드",
       "zh": "火恐龍"
     },
-    "shiny_released": true,
+    "shiny_released": false,
     "family": "Unown"
   },
   {
