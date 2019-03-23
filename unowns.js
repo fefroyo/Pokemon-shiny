@@ -1,6 +1,6 @@
 let pms = [
   {
-    "dex": 252,
+    "dex": 201,
     "name": {
       "de": "Unown A",
       "en": "Unown A",
@@ -13,7 +13,7 @@ let pms = [
     "family": "Unown"
   },
   {
-    "dex": 254,
+    "dex": 201,
     "name": {
       "de": "Unown B",
       "en": "Unown B",
@@ -61,7 +61,7 @@ let pms = [
       "kr": "리자드",
       "zh": "火恐龍"
     },
-    "shiny_released": false,
+    "shiny_released": true,
     "family": "Unown"
   },
   {
@@ -165,7 +165,7 @@ let pms = [
       "kr": "뿔충이",
       "zh": "獨角蟲"
     },
-    "shiny_released": false,
+    "shiny_released": true,
     "family": "Unown"
   },
   {
@@ -178,7 +178,7 @@ let pms = [
       "kr": "딱충이",
       "zh": "鐵殼蛹"
     },
-    "shiny_released": false,
+    "shiny_released": true,
     "family": "Unown"
   },
   {
@@ -191,7 +191,7 @@ let pms = [
       "kr": "독침붕",
       "zh": "大針蜂"
     },
-    "shiny_released": false,
+    "shiny_released": true,
     "family": "Unown"
   },
   {
@@ -269,7 +269,7 @@ let pms = [
       "kr": "깨비참",
       "zh": "烈雀"
     },
-    "shiny_released": false,
+    "shiny_released": true,
     "family": "Unown"
   },
   {
@@ -282,7 +282,7 @@ let pms = [
       "kr": "깨비드릴조",
       "zh": "大嘴雀"
     },
-    "shiny_released": false,
+    "shiny_released": true,
     "family": "Unown"
   },
   {
@@ -295,7 +295,7 @@ let pms = [
       "kr": "아보",
       "zh": "阿柏蛇"
     },
-    "shiny_released": false,
+    "shiny_released": true,
     "family": "Unown"
   },
   {
@@ -308,7 +308,7 @@ let pms = [
       "kr": "아보크",
       "zh": "阿柏怪"
     },
-    "shiny_released": false,
+    "shiny_released": true,
     "family": "Unown"
   },
   {
