@@ -1,6 +1,6 @@
 let pms = [
   {
-    "dex": 201,
+    "dex": '201_11',
     "name": {
       "de": "Unown A",
       "en": "Unown A",
@@ -13,7 +13,7 @@ let pms = [
     "family": "Unown"
   },
   {
-    "dex": 201,
+    "dex": '201_12',
     "name": {
       "de": "Unown B",
       "en": "Unown B",
@@ -26,7 +26,7 @@ let pms = [
     "family": "Unown"
   },
   {
-    "dex": 403,
+    "dex": '201_13',
     "name": {
       "de": "Unown C",
       "en": "Unown C",
@@ -39,7 +39,7 @@ let pms = [
     "family": "Unown"
   },
   {
-    "dex": 4,
+    "dex": '201_14',
     "name": {
       "de": "Unown D",
       "en": "Unown D",
@@ -52,7 +52,7 @@ let pms = [
     "family": "Unown"
   },
   {
-    "dex": 201,
+    "dex": '201_15',
     "name": {
       "de": "Unown E",
       "en": "Unown E",
@@ -65,7 +65,7 @@ let pms = [
     "family": "Unown"
   },
   {
-    "dex": 6,
+    "dex": '201_16',
     "name": {
       "de": "Unown F",
       "en": "Unown F",
@@ -78,7 +78,7 @@ let pms = [
     "family": "Unown"
   },
   {
-    "dex": 7,
+    "dex": '201_17',
     "name": {
       "de": "Unown G",
       "en": "Unown G",
@@ -91,7 +91,7 @@ let pms = [
     "family": "Unown"
   },
   {
-    "dex": 8,
+    "dex": '201_18',
     "name": {
       "de": "Unown H",
       "en": "Unown H",
@@ -104,7 +104,7 @@ let pms = [
     "family": "Unown"
   },
   {
-    "dex": 9,
+    "dex": '201_19',
     "name": {
       "de": "Unown I",
       "en": "Unown I",
@@ -117,7 +117,7 @@ let pms = [
     "family": "Unown"
   },
   {
-    "dex": 10,
+    "dex": '201_20',
     "name": {
       "de": "Unown J",
       "en": "Unown J",
@@ -130,7 +130,7 @@ let pms = [
     "family": "Unown"
   },
   {
-    "dex": 11,
+    "dex": '201_21',
     "name": {
       "de": "Unown K",
       "en": "Unown K",
@@ -143,7 +143,7 @@ let pms = [
     "family": "Unown"
   },
   {
-    "dex": 12,
+    "dex": '201_22',
     "name": {
       "de": "Unown L",
       "en": "Unown L",
@@ -156,7 +156,7 @@ let pms = [
     "family": "Unown"
   },
   {
-    "dex": 13,
+    "dex": '201_23',
     "name": {
       "de": "Unown M",
       "en": "Unown M",
@@ -169,7 +169,7 @@ let pms = [
     "family": "Unown"
   },
   {
-    "dex": 14,
+    "dex": '201_24',
     "name": {
       "de": "Unown N",
       "en": "Unown N",
@@ -182,7 +182,7 @@ let pms = [
     "family": "Unown"
   },
   {
-    "dex": 15,
+    "dex": '201_25',
     "name": {
       "de": "Unown O",
       "en": "Unown O",
@@ -195,7 +195,7 @@ let pms = [
     "family": "Unown"
   },
   {
-    "dex": 16,
+    "dex": '201_26',
     "name": {
       "de": "Unown P",
       "en": "Unown P",
@@ -208,7 +208,7 @@ let pms = [
     "family": "Unown"
   },
   {
-    "dex": 17,
+    "dex": '201_27',
     "name": {
       "de": "Unown Q",
       "en": "Unown Q",
@@ -221,7 +221,7 @@ let pms = [
     "family": "Unown"
   },
   {
-    "dex": 18,
+    "dex": '201_28',
     "name": {
       "de": "Unown R",
       "en": "Unown R",
@@ -234,7 +234,7 @@ let pms = [
     "family": "Unown"
   },
   {
-    "dex": 19,
+    "dex": '201_29',
     "name": {
       "de": "Unown S",
       "en": "Unown S",
@@ -247,7 +247,7 @@ let pms = [
     "family": "Unown"
   },
   {
-    "dex": 20,
+    "dex": '201_30',
     "name": {
       "de": "Unown T",
       "en": "Unown T",
@@ -260,7 +260,7 @@ let pms = [
     "family": "Unown"
   },
   {
-    "dex": 21,
+    "dex": '201_31',
     "name": {
       "de": "Unown U",
       "en": "Unown U",
@@ -273,7 +273,7 @@ let pms = [
     "family": "Unown"
   },
   {
-    "dex": 22,
+    "dex": '201_32',
     "name": {
       "de": "Unown V",
       "en": "Unown V",
@@ -286,7 +286,7 @@ let pms = [
     "family": "Unown"
   },
   {
-    "dex": 23,
+    "dex": '201_33',
     "name": {
       "de": "Unown W",
       "en": "Unown W",
@@ -299,7 +299,7 @@ let pms = [
     "family": "Unown"
   },
   {
-    "dex": 24,
+    "dex": '201_34',
     "name": {
       "de": "Unown X",
       "en": "Unown X",
@@ -312,7 +312,7 @@ let pms = [
     "family": "Unown"
   },
   {
-    "dex": 25,
+    "dex": '201_35',
     "name": {
       "de": "Unown Y",
       "en": "Unown Y",
@@ -325,7 +325,7 @@ let pms = [
     "family": "Unown"
   },
   {
-    "dex": 26,
+    "dex": '201_36',
     "name": {
       "de": "Unown Z",
       "en": "Unown Z",
@@ -338,7 +338,7 @@ let pms = [
     "family": "Unown"
   },
   {
-    "dex": 27,
+    "dex": '201_37',
     "name": {
       "de": "Unown ?",
       "en": "Unown ?",
@@ -351,7 +351,7 @@ let pms = [
     "family": "Unown"
   },
   {
-    "dex": 28,
+    "dex": '201_38',
     "name": {
       "de": "Unown !",
       "en": "Unown !",
