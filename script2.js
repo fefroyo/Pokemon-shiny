@@ -282,6 +282,15 @@ function getImgUrl(pm, normal) {
   return `${imgBasePath}${number}${shiny}.png${pm.cachebuster || ''}`;
 }
 
+//function getImgUrl(pm, normal) {
+//  let pokedex = `${pm.dex}`.padStart(3, '0');
+//  let imgBasePath = 'https://fefroyo.github.io/pokemon/';
+//  let number = `${pokedex}${pm.type || ''}${pm.isotope || ''}`;
+//  let shiny1 = normal ? 'shiny/pokemon_icon_' : 'icons/';
+//  let shiny = normal ? '_00_shiny' : '';
+//  return `${imgBasePath}${shiny1}${number}${shiny}.png${pm.cachebuster || ''}`;
+//}
+
 
 elm.share = document.querySelector('.share');
 elm.share.addEventListener('click', (e) => {
