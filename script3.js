@@ -271,7 +271,7 @@ function renderState() {
 
 function getImgUrl(pm, normal) {
   let pokedex = `${pm.dex}`.padStart(3, '0');
-  let imgBasePath = '.././pokesHome/gen1/poke_capture_0';
+  let imgBasePath = 'https://fefroyo.github.io/pokeHome-icons/icons/poke_capture_0';
   let number = `${pokedex}${pm.type || ''}${pm.isotope || ''}`;
   let shiny = normal ? 'f_r' : 'f_n';
 
